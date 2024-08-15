@@ -1,0 +1,17 @@
+body{
+    background-image: url(img/img.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+
+.container{
+    color: antiquewhite;
+    text-align: center;
+}
+.formu{
+    color: antiquewhite;
+    text-align: center;
+}
+
